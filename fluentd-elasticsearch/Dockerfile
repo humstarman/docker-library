@@ -1,5 +1,5 @@
-FROM gcr.io/google_containers/fluentd-elasticsearch:1.23
-MAINTAINER Jason <piml.lui@gmail.com>
+FROM gcr.io/google_containers/fluentd-elasticsearch:v2.0.1
+MAINTAINER LueYoung <lueyoung7@gmail.com>
 
 
 
