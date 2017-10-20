@@ -1,5 +1,5 @@
-FROM gcr.io/google_containers/elasticsearch:v2.4.1-2
-MAINTAINER Jason <piml.lui@gmail.com>
+FROM gcr.io/google_containers/elasticsearch:v5.5.1-1
+MAINTAINER LueYoung <lueyoung7@gmail.com>
 
 
 
